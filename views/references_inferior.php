@@ -6,6 +6,8 @@
   <!--  Google Maps Plugin    -->
   <!--<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"></script>-->
   <!-- Chart JS -->
+  <script src="./assets/js/plugins/sweetalert2.all.js"></script>
+  <!-- Chart JS -->
   <script src="./assets/js/plugins/chartjs.min.js"></script>
   <!--  Notifications Plugin    -->
   <script src="./assets/js/plugins/bootstrap-notify.js"></script>
